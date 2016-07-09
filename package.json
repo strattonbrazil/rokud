@@ -1,0 +1,11 @@
+{
+  "name": "rokud",
+  "version": "0.1.0",
+  "main": "./app.js",
+  "bin": {
+    "electron": "./bin/rokud"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "~1.2.6"
+  }
+}
